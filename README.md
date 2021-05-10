@@ -18,6 +18,6 @@ I'm always eager and enthusiastic to take up new and exciting projects to show-c
 
 >## 🤳 Social Links
 >
-><a href = "https://www.linkedin.com/in/suhaib-ahmed10"/><img src = "https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-32x32.png?raw=true" /></a>    <a href = "https://twitter.com/AHEMed_Suhaib" ><img src = "https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-32x32.png?raw=true"/></a>    <a href = "https://suhaib-z-ahmed.medium.com/"/><img src = "https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" height="38px" width="36px"/></a>
+><a href = "https://www.linkedin.com/in/suhaib-ahmed10"/><img src = "https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-32x32.png?raw=true" /></a>    <a href = "https://twitter.com/AHEMed_Suhaib" ><img src = "https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-32x32.png?raw=true"/></a>    <a href = "https://suhaib-z-ahmed.medium.com/"/><img src = "https://image.flaticon.com/icons/png/512/2582/2582607.png" height="38px" width="36px"/></a>
 
 
