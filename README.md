@@ -1,6 +1,8 @@
 ### Hi there 👋
-I'm Suhaib Ahmed, an aspiring **Full-Stack Web Developer 🤓**.  Currently, I'm pursuing a **Full-Stack Web Development** course at Masai School where they are training me on the 
+I'm **Suhaib Ahmed**, an aspiring **Full-Stack Web Developer 🤓**.  Currently, I'm pursuing a **Full-Stack Web Development** course at *Masai School* where they are training me on 
 some of the cutting-edge technologies for web development like **React, Redux, Express and MongoDB**.
+
+
 <!--
 **suhaibzahmed/suhaibzahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
