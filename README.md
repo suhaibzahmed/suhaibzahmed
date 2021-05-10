@@ -18,6 +18,6 @@ I'm always eager and enthusiastic to take up new and exciting projects to show-c
 
 >### 📱 Social Links
 >
-> <a href = "https://www.linkedin.com/in/suhaib-ahmed10" ><div border-radius="50%"><img src = "https://image.flaticon.com/icons/png/512/174/174857.png" height="20px" width="20px"/></div></a>
+> <div><div border-radius="50%"><a href = "https://www.linkedin.com/in/suhaib-ahmed10" ><img src = "https://image.flaticon.com/icons/png/512/174/174857.png" height="20px" width="20px"/></a></div></div>
 
 
