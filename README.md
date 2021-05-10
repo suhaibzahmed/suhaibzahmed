@@ -10,5 +10,7 @@ I'm always eager and enthusiastic to take up new and exciting projects to show-c
 > 
 
 
-
+>### 🤖 My Stats
+>
+> ![My GitHub Stats]
 
