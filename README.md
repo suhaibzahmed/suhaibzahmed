@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 I'm **Suhaib Ahmed**, an aspiring and a passionate **Full-Stack Web Developer 🤓**.  Currently, I'm pursuing a **Full-Stack Web Development** course at *Masai School* where they are training me on some of the cutting-edge technologies for web development like **React, Redux, Express and MongoDB**.
 
 I'm always eager and enthusiastic to take up new and exciting projects to show-case my abilities as a competent developer.💪 
