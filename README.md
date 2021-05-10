@@ -12,9 +12,9 @@ I'm always eager and enthusiastic to take up new and exciting projects to show-c
 
 >## 🤖 My Stats
 >
-> ![Suhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaibzahmed&show_icons=true&theme=radical)<br><br><br>
+> ![Suhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaibzahmed&show_icons=true&theme=radical)<br><br>
 
-
+<br>
 
 >## 📱 Social Links
 >
