@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Suhaib Ahmed, an aspiring Full-Stack Web Developer. 🖥
+I'm Suhaib Ahmed, an aspiring **Full-Stack Web Developer. 🖥**
 
 <!--
 **suhaibzahmed/suhaibzahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
